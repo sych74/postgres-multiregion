@@ -36,7 +36,7 @@ settings:
             caption: PostgreSQL 17
           - value: postgres18
             caption: PostgreSQL 18
-        default: postgres17
+        default: postgres18
       - caption: Environment
         type: envname
         name: envName
